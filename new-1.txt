@@ -1,2 +1,2 @@
-create file new-1.txt
+edit file new-1.txt by user2
 and save
